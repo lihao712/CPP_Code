@@ -1,0 +1,2 @@
+D:\CppProjict\My_Timer\Debug\My_Timer.exe
+D:\CppProjict\My_Timer\Debug\My_Timer.pdb

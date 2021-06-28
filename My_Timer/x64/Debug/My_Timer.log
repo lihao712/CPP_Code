@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\CppProjict\My_Timer\thread_pool.h(129,34): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\CppProjict\My_Timer\thread_pool.h(256,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\CppProjict\My_Timer\timer.h(49,20): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  My_Timer.vcxproj -> D:\CppProjict\My_Timer\x64\Debug\My_Timer.exe
